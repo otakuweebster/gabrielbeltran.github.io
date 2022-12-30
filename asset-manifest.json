@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/gabrielbeltran.github.io/static/css/main.4b7104da.css",
-    "main.js": "/gabrielbeltran.github.io/static/js/main.4b1d8a57.js",
-    "static/js/787.f8283c9c.chunk.js": "/gabrielbeltran.github.io/static/js/787.f8283c9c.chunk.js",
+    "main.js": "/gabrielbeltran.github.io/static/js/main.dc2ff550.js",
     "index.html": "/gabrielbeltran.github.io/index.html",
     "main.4b7104da.css.map": "/gabrielbeltran.github.io/static/css/main.4b7104da.css.map",
-    "main.4b1d8a57.js.map": "/gabrielbeltran.github.io/static/js/main.4b1d8a57.js.map",
-    "787.f8283c9c.chunk.js.map": "/gabrielbeltran.github.io/static/js/787.f8283c9c.chunk.js.map"
+    "main.dc2ff550.js.map": "/gabrielbeltran.github.io/static/js/main.dc2ff550.js.map"
   },
   "entrypoints": [
     "static/css/main.4b7104da.css",
-    "static/js/main.4b1d8a57.js"
+    "static/js/main.dc2ff550.js"
   ]
 }
