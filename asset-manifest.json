@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gabrielbeltran.github.io/static/css/main.097b89a8.css",
-    "main.js": "/gabrielbeltran.github.io/static/js/main.5cdd7981.js",
-    "static/media/artwork.png": "/gabrielbeltran.github.io/static/media/artwork.290bf51e45894f0f743f.png",
-    "static/media/bg3.png": "/gabrielbeltran.github.io/static/media/bg3.c4fb60353a2984b115a0.png",
-    "static/media/gabrielbeltran_logo.png": "/gabrielbeltran.github.io/static/media/gabrielbeltran_logo.88a00985b02378305991.png",
-    "static/media/frontend.png": "/gabrielbeltran.github.io/static/media/frontend.946e196d50e2fbd7eac3.png",
-    "static/media/bg2.png": "/gabrielbeltran.github.io/static/media/bg2.f8b82ff4b5dc540bdbad.png",
-    "static/media/bg4.png": "/gabrielbeltran.github.io/static/media/bg4.78a6f46f1d33a8b4e683.png",
-    "static/media/gb_bg.png": "/gabrielbeltran.github.io/static/media/gb_bg.d984084bdd2c1ba91db5.png",
-    "index.html": "/gabrielbeltran.github.io/index.html",
-    "main.097b89a8.css.map": "/gabrielbeltran.github.io/static/css/main.097b89a8.css.map",
-    "main.5cdd7981.js.map": "/gabrielbeltran.github.io/static/js/main.5cdd7981.js.map"
+    "main.css": "/static/css/main.097b89a8.css",
+    "main.js": "/static/js/main.77d51aa2.js",
+    "static/media/artwork.png": "/static/media/artwork.290bf51e45894f0f743f.png",
+    "static/media/bg3.png": "/static/media/bg3.c4fb60353a2984b115a0.png",
+    "static/media/gabrielbeltran_logo.png": "/static/media/gabrielbeltran_logo.88a00985b02378305991.png",
+    "static/media/frontend.png": "/static/media/frontend.946e196d50e2fbd7eac3.png",
+    "static/media/bg2.png": "/static/media/bg2.f8b82ff4b5dc540bdbad.png",
+    "static/media/bg4.png": "/static/media/bg4.78a6f46f1d33a8b4e683.png",
+    "static/media/gb_bg.png": "/static/media/gb_bg.d984084bdd2c1ba91db5.png",
+    "index.html": "/index.html",
+    "main.097b89a8.css.map": "/static/css/main.097b89a8.css.map",
+    "main.77d51aa2.js.map": "/static/js/main.77d51aa2.js.map"
   },
   "entrypoints": [
     "static/css/main.097b89a8.css",
-    "static/js/main.5cdd7981.js"
+    "static/js/main.77d51aa2.js"
   ]
 }
