@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.097b89a8.css",
-    "main.js": "/static/js/main.8e831d1f.js",
+    "main.css": "/static/css/main.58b1a051.css",
+    "main.js": "/static/js/main.38a50ec0.js",
     "static/media/artwork.png": "/static/media/artwork.290bf51e45894f0f743f.png",
+    "static/media/gabrielbeltran_1.png": "/static/media/gabrielbeltran_1.3a2e81981b7c29c4a2f0.png",
+    "static/media/bg_aboutme.png": "/static/media/bg_aboutme.a6d7dec8cd0351c9b5fb.png",
+    "static/media/the_new_chap.gif": "/static/media/the_new_chap.02a32028856a4d676911.gif",
+    "static/media/the_humble_beginnigs.gif": "/static/media/the_humble_beginnigs.eddf1351cf90ac1d5b68.gif",
     "static/media/bg3.png": "/static/media/bg3.c4fb60353a2984b115a0.png",
+    "static/media/gabrielbeltran_2.png": "/static/media/gabrielbeltran_2.d32ea3c47a5bb4d949e9.png",
     "static/media/gabrielbeltran_logo.png": "/static/media/gabrielbeltran_logo.88a00985b02378305991.png",
     "static/media/frontend.png": "/static/media/frontend.db466a8566d65a87c277.png",
     "static/media/bg2.png": "/static/media/bg2.f8b82ff4b5dc540bdbad.png",
     "static/media/bg4.png": "/static/media/bg4.78a6f46f1d33a8b4e683.png",
     "static/media/gb_bg.png": "/static/media/gb_bg.d984084bdd2c1ba91db5.png",
     "index.html": "/index.html",
-    "main.097b89a8.css.map": "/static/css/main.097b89a8.css.map",
-    "main.8e831d1f.js.map": "/static/js/main.8e831d1f.js.map"
+    "main.58b1a051.css.map": "/static/css/main.58b1a051.css.map",
+    "main.38a50ec0.js.map": "/static/js/main.38a50ec0.js.map"
   },
   "entrypoints": [
-    "static/css/main.097b89a8.css",
-    "static/js/main.8e831d1f.js"
+    "static/css/main.58b1a051.css",
+    "static/js/main.38a50ec0.js"
   ]
 }
