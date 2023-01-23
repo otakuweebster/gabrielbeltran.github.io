@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.48c1366a.css",
-    "main.js": "/static/js/main.36ca0f46.js",
+    "main.js": "/static/js/main.6a1eda92.js",
     "static/media/gradient_bg.png": "/static/media/gradient_bg.370f71fc71d3b965444b.png",
     "static/media/artwork.png": "/static/media/artwork.290bf51e45894f0f743f.png",
     "static/media/blk.png": "/static/media/blk.7f84b2ec9bb65b372cee.png",
@@ -23,10 +23,10 @@
     "static/media/totoro_moon_mb.png": "/static/media/totoro_moon_mb.f600351245926e2cc0e4.png",
     "index.html": "/index.html",
     "main.48c1366a.css.map": "/static/css/main.48c1366a.css.map",
-    "main.36ca0f46.js.map": "/static/js/main.36ca0f46.js.map"
+    "main.6a1eda92.js.map": "/static/js/main.6a1eda92.js.map"
   },
   "entrypoints": [
     "static/css/main.48c1366a.css",
-    "static/js/main.36ca0f46.js"
+    "static/js/main.6a1eda92.js"
   ]
 }
