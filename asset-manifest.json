@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.2ecb73dd.css",
-    "main.js": "/static/js/main.6c8cf8f5.js",
+    "main.js": "/static/js/main.ebe738db.js",
     "static/media/gradient_bg.png": "/static/media/gradient_bg.370f71fc71d3b965444b.png",
+    "static/media/WIDESCREEN_GABE.png": "/static/media/WIDESCREEN_GABE.ad84757a46577fcab7f6.png",
+    "static/media/TALL_GABE.png": "/static/media/TALL_GABE.bcd66d4d9437705952f0.png",
     "static/media/artwork.png": "/static/media/artwork.290bf51e45894f0f743f.png",
     "static/media/blk2.png": "/static/media/blk2.c7c4fb134133d4680881.png",
     "static/media/blk.png": "/static/media/blk.7f84b2ec9bb65b372cee.png",
@@ -18,8 +20,6 @@
     "static/media/frontend.png": "/static/media/frontend.db466a8566d65a87c277.png",
     "static/media/totoro_layer2_mb.png": "/static/media/totoro_layer2_mb.3f649153a5230a86c7db.png",
     "static/media/bg2.png": "/static/media/bg2.f8b82ff4b5dc540bdbad.png",
-    "static/media/dq2.gif": "/static/media/dq2.50bb1a20a3bed67319a4.gif",
-    "static/media/dq1.gif": "/static/media/dq1.288e03ddd95cc7b6524f.gif",
     "static/media/div.png": "/static/media/div.ee65f9866e3e4d14eed5.png",
     "static/media/gabrielbeltran_logo.png": "/static/media/gabrielbeltran_logo.cde761223f9a0a794f8b.png",
     "static/media/divmb.png": "/static/media/divmb.dc7b94ca9abeac05ecf6.png",
@@ -27,14 +27,22 @@
     "static/media/div2.png": "/static/media/div2.67ff0404f95e13033e9a.png",
     "static/media/gabrielbeltran_logo_mb.png": "/static/media/gabrielbeltran_logo_mb.50ff69258450110ca0f5.png",
     "static/media/bg4.png": "/static/media/bg4.78a6f46f1d33a8b4e683.png",
+    "static/media/90s_pattern.png": "/static/media/90s_pattern.61d977473ef28732d5a2.png",
     "static/media/totoro_moon.png": "/static/media/totoro_moon.ce5c87b412fdac87c79a.png",
+    "static/media/90s_pattern2.png": "/static/media/90s_pattern2.e708325fe2cb461e7aa0.png",
     "static/media/totoro_moon_mb.png": "/static/media/totoro_moon_mb.f600351245926e2cc0e4.png",
+    "static/media/RETRO_LOGO.png": "/static/media/RETRO_LOGO.ac3dc662af7db5f15e9d.png",
+    "static/media/Specialities and Skills.png": "/static/media/Specialities and Skills.d0e9d7505329e2899203.png",
+    "static/media/WHERE i SPECIALIZED ON.png": "/static/media/WHERE i SPECIALIZED ON.a496d0e96de57cb3ec00.png",
+    "static/media/where I am skilled on.png": "/static/media/where I am skilled on.ba9e369d36ed02aa6b90.png",
+    "static/media/signiture.png": "/static/media/signiture.7f6ce8df27cc6be73fe1.png",
+    "static/media/ABOUT_ME.png": "/static/media/ABOUT_ME.8b7446032265335901df.png",
     "index.html": "/index.html",
     "main.2ecb73dd.css.map": "/static/css/main.2ecb73dd.css.map",
-    "main.6c8cf8f5.js.map": "/static/js/main.6c8cf8f5.js.map"
+    "main.ebe738db.js.map": "/static/js/main.ebe738db.js.map"
   },
   "entrypoints": [
     "static/css/main.2ecb73dd.css",
-    "static/js/main.6c8cf8f5.js"
+    "static/js/main.ebe738db.js"
   ]
 }
