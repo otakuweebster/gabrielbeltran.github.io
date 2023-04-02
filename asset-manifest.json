@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5a39d16.css",
-    "main.js": "/static/js/main.3c158d0c.js",
+    "main.css": "/static/css/main.0e2a2caa.css",
+    "main.js": "/static/js/main.a713beea.js",
     "static/media/gradient_bg.png": "/static/media/gradient_bg.370f71fc71d3b965444b.png",
     "static/media/WIDESCREEN_GABE.png": "/static/media/WIDESCREEN_GABE.ad84757a46577fcab7f6.png",
     "static/media/TALL_GABE.png": "/static/media/TALL_GABE.bcd66d4d9437705952f0.png",
@@ -11,6 +11,7 @@
     "static/media/totoro.png": "/static/media/totoro.db9cba192ce426c25ec6.png",
     "static/media/gabrielbeltran_1.png": "/static/media/gabrielbeltran_1.3a2e81981b7c29c4a2f0.png",
     "static/media/bg_aboutme.png": "/static/media/bg_aboutme.a6d7dec8cd0351c9b5fb.png",
+    "static/media/GRAPHIC ARTS.png": "/static/media/GRAPHIC ARTS.ad248f848f587e8bf29c.png",
     "static/media/totoro_mb.png": "/static/media/totoro_mb.76840a9b5d3dffe534c9.png",
     "static/media/the_new_chap.gif": "/static/media/the_new_chap.02a32028856a4d676911.gif",
     "static/media/the_humble_beginnigs.gif": "/static/media/the_humble_beginnigs.eddf1351cf90ac1d5b68.gif",
@@ -20,6 +21,7 @@
     "static/media/frontend.png": "/static/media/frontend.db466a8566d65a87c277.png",
     "static/media/totoro_layer2_mb.png": "/static/media/totoro_layer2_mb.3f649153a5230a86c7db.png",
     "static/media/bg2.png": "/static/media/bg2.f8b82ff4b5dc540bdbad.png",
+    "static/media/showcase.png": "/static/media/showcase.f90dba90f778b65dd7c6.png",
     "static/media/div.png": "/static/media/div.ee65f9866e3e4d14eed5.png",
     "static/media/gabrielbeltran_logo.png": "/static/media/gabrielbeltran_logo.cde761223f9a0a794f8b.png",
     "static/media/divmb.png": "/static/media/divmb.dc7b94ca9abeac05ecf6.png",
@@ -27,22 +29,28 @@
     "static/media/div2.png": "/static/media/div2.67ff0404f95e13033e9a.png",
     "static/media/gabrielbeltran_logo_mb.png": "/static/media/gabrielbeltran_logo_mb.50ff69258450110ca0f5.png",
     "static/media/bg4.png": "/static/media/bg4.78a6f46f1d33a8b4e683.png",
+    "static/media/graphdesign.png": "/static/media/graphdesign.613a1550c627b06f5bac.png",
     "static/media/90s_pattern.png": "/static/media/90s_pattern.61d977473ef28732d5a2.png",
+    "static/media/frontenddesign.png": "/static/media/frontenddesign.16c63b16c9e82acd3735.png",
     "static/media/totoro_moon.png": "/static/media/totoro_moon.ce5c87b412fdac87c79a.png",
     "static/media/90s_pattern2.png": "/static/media/90s_pattern2.e708325fe2cb461e7aa0.png",
     "static/media/totoro_moon_mb.png": "/static/media/totoro_moon_mb.f600351245926e2cc0e4.png",
     "static/media/RETRO_LOGO.png": "/static/media/RETRO_LOGO.ac3dc662af7db5f15e9d.png",
-    "static/media/Specialities and Skills.png": "/static/media/Specialities and Skills.d0e9d7505329e2899203.png",
     "static/media/WHERE i SPECIALIZED ON.png": "/static/media/WHERE i SPECIALIZED ON.a496d0e96de57cb3ec00.png",
+    "static/media/genprogbg.png": "/static/media/genprogbg.450bdca914bce2f54e55.png",
     "static/media/where I am skilled on.png": "/static/media/where I am skilled on.ba9e369d36ed02aa6b90.png",
+    "static/media/Specialities and Skills.png": "/static/media/Specialities and Skills.f229c949b833e8593ea3.png",
     "static/media/signiture.png": "/static/media/signiture.7f6ce8df27cc6be73fe1.png",
+    "static/media/genprog logo.png": "/static/media/genprog logo.274762b404920cd8d933.png",
     "static/media/ABOUT_ME.png": "/static/media/ABOUT_ME.8b7446032265335901df.png",
+    "static/media/fullstackwebdevlogo.png": "/static/media/fullstackwebdevlogo.c5fcce6f9bae2fa42e94.png",
+    "static/media/graphlogo.png": "/static/media/graphlogo.ab94af575bd6015e39df.png",
     "index.html": "/index.html",
-    "main.b5a39d16.css.map": "/static/css/main.b5a39d16.css.map",
-    "main.3c158d0c.js.map": "/static/js/main.3c158d0c.js.map"
+    "main.0e2a2caa.css.map": "/static/css/main.0e2a2caa.css.map",
+    "main.a713beea.js.map": "/static/js/main.a713beea.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5a39d16.css",
-    "static/js/main.3c158d0c.js"
+    "static/css/main.0e2a2caa.css",
+    "static/js/main.a713beea.js"
   ]
 }
